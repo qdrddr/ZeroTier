@@ -1,4 +1,3 @@
-#Tested with Ubuntu 22.04
 #This script for ZeroTier Controller + UI was tested on Ubuntu 22.04
 #INSTALL Docker First!
 apt install docker.io vim
