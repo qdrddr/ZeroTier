@@ -1,5 +1,6 @@
 #This script for ZeroTier Node (Agent) was tested on Ubuntu 22.04
 #INSTALL Docker on your OS First!
+apt install docker.io vim
 
 #In your OS manually run these few commands:
 #sudo su
