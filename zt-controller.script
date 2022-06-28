@@ -1,5 +1,6 @@
 #This script for ZeroTier Controller + UI was tested on Ubuntu 22.04
 #INSTALL Docker First!
+apt install docker.io vim
 
 #On in the OS manually run these few commands:
 #sudo su
